@@ -9,3 +9,9 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
+
+projects:
+  split-cal:
+    url: https://github.com/kilobyte1024/split-cal
+  ledger-assistant:
+    url: https://github.com/kilobyte1024/ledger-assistant

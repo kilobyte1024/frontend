@@ -1,6 +1,7 @@
 ---
 layout: default
 title: kilobyte1024 Tools
+download_url: https://github.com/kilobyte1024/split-cal
 ---
 
 # kilobyte1024 Tools
