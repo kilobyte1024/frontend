@@ -1,7 +1,6 @@
 # effusedsystems.com — Frontend
 
-
-Jekyll Markdown static site deployed via **Github Pages**.
+This is a Jekyll Markdown static site deployed via **Github Pages**.
 
 The Ledger Assistant product page lives at:
 https://effusedsystems.com/ledger-assistant

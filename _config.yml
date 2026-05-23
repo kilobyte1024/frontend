@@ -1,3 +1,11 @@
 title: kilobyte1024 Tools
+logo: /ledger-assistant/la-banner.jpg
+description: A collection of tools and utilities for developers and tech enthusiasts. This includes Ledger Assistant (Google Sheets macros) and Split Cal for Splitwise expense automation.
+show-downloads: true
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-exclude: ["src", "node_modules", "package.json", "vite.config.js", "README.md"]
+exclude: ["src", "CNAME", "README.md"]
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
