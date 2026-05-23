@@ -4,7 +4,9 @@ title: Effused Systems Tools
 download_url: https://github.com/kilobyte1024/split-cal
 ---
 
-# Tool Offerings
+# Offerings
+
+A collection of tools and utilities for developers and tech enthusiasts.
 
 ## [Ledger Assistant](/ledger-assistant/)
 

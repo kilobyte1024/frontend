@@ -1,7 +1,10 @@
 title: Effused Systems Tools
 logo: /assets/img/logo.jpg
 description: A collection of tools and utilities for developers and tech enthusiasts. This includes Ledger Assistant (Google Sheets macros) and Split Cal for Splitwise expense automation.
-show-downloads: true
+show_downloads: true
+show_github_link: false
+favicon: /assets/img/favicon.ico
+google_tag_manager: G-R6GC83Y5BE
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 exclude: ["CNAME", "README.md"]
 theme: jekyll-theme-minimal
@@ -9,10 +12,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
-favicon: /assets/img/favicon.ico
 projects:
   split-cal:
     url: https://github.com/kilobyte1024/split-cal
   ledger-assistant:
     url: https://github.com/kilobyte1024/ledger-assistant
-google-analytics: G-R6GC83Y5BE
