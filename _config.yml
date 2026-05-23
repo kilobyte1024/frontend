@@ -9,7 +9,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
-
+favicon: /assets/img/favicon.ico
 projects:
   split-cal:
     url: https://github.com/kilobyte1024/split-cal
