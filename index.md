@@ -1,11 +1,15 @@
 ---
 layout: default
-title: kilobyte1024 Tools
+title: Effused Systems Tools
 download_url: https://github.com/kilobyte1024/split-cal
 ---
 
-# kilobyte1024 Tools
+# Tool Offerings
 
-Welcome to the main page. Navigate to:
-- [Ledger Assistant](/ledger-assistant/) - Google Sheets macros to help work with ledgers
-- [Split Cal](/split-cal/) - Recurring expenses for Splitwise
+## [Ledger Assistant](/ledger-assistant/)
+
+### Google Sheets macros to help work with ledgers
+
+## [Split Cal](/split-cal/)
+
+### Python tool to create recurring expenses in Splitwise
