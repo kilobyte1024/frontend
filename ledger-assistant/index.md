@@ -16,3 +16,8 @@ Ledger Assistant can save you time when moving entries to make more room; when r
 Here is a video of the Add-On in action:
 
 {% include youtube.html id="MzFRoaQvApQ" %}
+
+<div style="text-align: center">
+[Terms of Use](/ledger-assistant/terms) | 
+[Privacy Policy](/ledger-assistant/privacy)
+</div>
