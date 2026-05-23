@@ -5,7 +5,7 @@ title: Ledger Assistant
 
 # Ledger Assistant
 
-![Ledger Assistant banner](/ledger-assistant/la-banner.jpg)
+![Ledger Assistant banner](/ledger-assistant/la-banner.jpg){: width="700" height="400" }
 
 Ledger Assistant is a free Add-On for Google Sheets to more easily manage a monthly ledger for a single account, such as a checking account.
 
